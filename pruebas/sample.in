@@ -1,0 +1,14 @@
+7
+PUBLICAR pila
+PUBLICAR arbol
+PUBLICAR pila
+TOP 2
+BORRAR pila
+PUBLICAR lista
+TOP 3
+4
+TOP 1
+PUBLICAR cola
+BORRAR cola
+TOP 2
+0
